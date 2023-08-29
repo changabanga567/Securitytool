@@ -1,4 +1,4 @@
-Made a simple vulnerability assessment tool that works with OWASP ZAP for scanning fintech websites. Its automatec using ZAP's API and can save rsults to a text file.
+Made a simple vulnerability assessment tool that works with OWASP ZAP. Its automated using ZAP's API and can save results to a text file.
 
 You need to have ZAP and .NET Core SDK installeed and setup 
 
